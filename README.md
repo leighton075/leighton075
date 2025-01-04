@@ -9,8 +9,7 @@ I’m currently working on a discord [075-bot](https://github.com/leighton075/07
 <a href="https://linkedin.com/in/leighton-simmons-826745344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leighton-simmons-826745344" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28622808" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28622808" height="30" width="40" /></a>
 <a href="https://instagram.com/leighton_075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leighton_075" height="30" width="40" /></a>
-<a href="https://discord.com/oauth2/authorize?client_id=1290426522519343187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leighton_075" height="30" width="40" /></a>
-<h1><- Add discord bot</h1>
+<a href="https://discord.com/oauth2/authorize?client_id=1290426522519343187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leighton_075" height="30" width="40" /></a><h4><- Add discord bot</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
