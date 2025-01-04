@@ -3,7 +3,7 @@
 
 I’m currently working on a discord [075-bot](https://github.com/leighton075/075-bot)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My links:</h3>
 <p align="left">
 <a href="https://codepen.io/leighton-simmons" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="leighton-simmons" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leighton-simmons-826745344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leighton-simmons-826745344" height="30" width="40" /></a>
