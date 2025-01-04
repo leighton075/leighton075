@@ -19,10 +19,8 @@ I’m currently working on a discord [075-bot](https://github.com/leighton075/07
     </a>
     <a href="https://discord.com/oauth2/authorize?client_id=1290426522519343187" target="blank" style="display: flex; align-items: center;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leighton_075" height="30" width="40" />
-        <!-- Example of an arrow icon (SVG or Flaticon) -->
-        <img src="https://www.svgrepo.com/show/533593/arrow-left.svg" alt="Arrow" height="20" width="20" style="margin-left: 8px;" />
+        <img src="https://www.svgrepo.com/show/417711/arrow-left-3.svg" alt="Arrow" height="20" width="20" style="margin-left: 8px;" />
     </a>
-    <h4><- Add discord bot</h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
