@@ -19,7 +19,7 @@ I’m currently working on a discord [075-bot](https://github.com/leighton075/07
     </a>
     <a href="https://discord.com/oauth2/authorize?client_id=1290426522519343187" target="blank" style="display: inline-flex; align-items: center;">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leighton_075" height="30" width="40" style="vertical-align: middle;" />
-        <p style="margin-left: 8px; margin-bottom: 0;"><- Add Discord Bot</p>
+        <span style="margin-left: 8px; font-size: 16px; line-height: 30px;"><- Add Discord Bot</span>
     </a>
 </p>
 
