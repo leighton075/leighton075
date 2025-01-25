@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leighton</h1>
 <h3 align="center">Student dev from New Zealand</h3>
 
-I’m currently working on a discord [075-bot](https://github.com/leighton075/075-bot)
+I’m currently working on a discord [075-bot](https://github.com/leighton075/075-bot) and my [blog](www.075.it.com).
 
 <h3 align="left">My links:</h3>
 <p align="left">
