@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🪫 About Me:
 Hi, I'm Leighton<br>A student dev from New Zealand<br>I’m currently working on a discord bot and my blog.
 
 
