@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with [Automated .m3u generation for IpodSyncer](https://github.com/leighton075/IpodSyncer)
 
-- 👨‍💻 All of my projects are available at [https://github.com/leighton075?tab=repositories](https://github.com/leighton075?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub](https://github.com/leighton075?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
