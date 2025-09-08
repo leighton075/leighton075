@@ -9,7 +9,6 @@
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/leighton075?tab=repositories)
 
-<div> <a href="https://github.com/leighton075" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/leighton075" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="leighton075" height="30" width="40" /></a><a href="https://codepen.io/leighton075" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codepen.svg" alt="leighton075" height="30" width="40" /></a><a href="https://stackoverflow.com/users/28622808" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="28622808" height="30" width="40" /></a></p>
